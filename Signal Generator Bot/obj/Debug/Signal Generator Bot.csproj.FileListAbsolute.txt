@@ -1,0 +1,54 @@
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\obj\Debug\Signal Generator Bot.csprojResolveAssemblyReference.cache
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\obj\Debug\Signal Generator Bot.csproj.CoreCompileInputs.cache
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Bot Application.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Bot Application.pdb
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Autofac.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Chronic.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Newtonsoft.Json.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\System.Web.Http.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Autofac.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.Bot.Builder.pdb
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\Newtonsoft.Json.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\System.Web.Http.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\el\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\obj\Debug\Bot Application.dll
+C:\Users\ayuagarw\Documents\Visual Studio 2013\Projects\Signal Generator Bot\Signal Generator Bot\obj\Debug\Bot Application.pdb
